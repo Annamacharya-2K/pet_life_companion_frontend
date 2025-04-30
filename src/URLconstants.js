@@ -1,0 +1,10 @@
+export const DEFAULT_URL = 'http://localhost:4000';
+export const SUBMIT_FORM = DEFAULT_URL+'/appoint/submitForm'
+export const GET_QUERIES = DEFAULT_URL+'/appoint/getAppointmentqueries'
+export const SIGNIN_URL = DEFAULT_URL+'/access/signin'
+export const SIGNUP_URL = DEFAULT_URL+'/access/signup'
+export const USER_SIGNIN_URL = DEFAULT_URL+'/user/signin'
+export const USER_SIGNUP_URL = DEFAULT_URL+'/user/signup'
+export const SEND_MAIL = DEFAULT_URL+'/appoint/sendmail'
+export const DECLINE_MAIL = DEFAULT_URL+'/appoint/declinemail'
+export const FETCH_TIME_SLOTS = DEFAULT_URL+'/appoint/getbookedslots'

@@ -1,0 +1,149 @@
+{
+  "Header": {
+    "title": "Welcome to Pet Life Companion",
+    "paragraph": "Discover expert grooming services in Worcester, MA, where classic pet care and modern styles meet exceptional customer care"
+  },
+  "About": {
+    "paragraph": "At Pet Life Companion, we take pride in offering premium pet care services that combine compassion, expertise, and personalized attention. Our team of dedicated professionals is committed to providing your pets with the best care possible, from grooming to vaccinations and overall wellness. We believe in treating every pet like family, ensuring that each visit is an enjoyable and comfortable experience. Whether it’s routine grooming or special care, we focus on enhancing the life of your furry companion. At Pet Life Companion, your pet’s health and happiness are our top priorities.“",
+    "Why": [
+      "Experienced Caregivers",
+      "Compassionate Services",
+      "Personalized Pet Care",
+      "Expert Grooming"
+      
+    ],
+    "Why2": [
+      "Wellness Services",
+      "Trusted by Pet Owners",
+      "Safe & Comfortable Environment",
+      "Customer Satisfaction Guaranteed"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Pet Life Companion",
+      "largeImage": "img/portfolio/checkup2.jpg",
+      "smallImage": "img/portfolio/checkup2.jpg"
+    },
+    {
+      "title": "Pet Life Companion",
+      "largeImage": "img/portfolio/checkup.jpg",
+      "smallImage": "img/portfolio/checkup.jpg"
+    },
+    {
+      "title": "Pet Life Companion",
+      "largeImage": "img/portfolio/groom1.jpg",
+      "smallImage": "img/portfolio/groom1.jpg"
+    },
+    {
+      "title": "Pet Life Companion",
+      "largeImage": "img/portfolio/2pets.jpg",
+      "smallImage": "img/portfolio/2pets.jpg"
+    },
+    {
+      "title": "Pet Life Companion",
+      "largeImage": "img/portfolio/groom3.jpg",
+      "smallImage": "img/portfolio/groom3.jpg"
+    },
+    {
+      "title": "Pet Life Companion",
+      "largeImage": "img/portfolio/Thankyou.jpg",
+      "smallImage": "img/portfolio/Thankyou.jpg"
+    },
+    {
+      "title": "Pet Life Companion",
+      "largeImage": "img/portfolio/pawdicure.jpg",
+      "smallImage": "img/portfolio/pawdicure.jpg"
+    },
+    {
+      "title": "Pet Life Companion",
+      "largeImage": "img/portfolio/grooming.jpg",
+      "smallImage": "img/portfolio/grooming.jpg"
+    },
+    {
+      "title": "Pet Life Companion",
+      "largeImage": "img/portfolio/earcleaning.jpg",
+      "smallImage": "img/portfolio/earcleaning.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-paw",
+      "name": "Regular Bath",
+      "type":"Bathing",
+      "text": "A gentle bath that cleans, refreshes, and removes dirt and odors.",
+      "title1":"Small Dogs(upto 10lbs)...............$25",
+      "title2":"Large Dogs(>10lbs)...................$50"
+    },
+    {
+      "icon": "fa fa-paw",
+      "name": "Full Groom",
+      "type":"grooming",
+      "text": "A complete grooming service including bath, haircut, nail trimming, ear cleaning and all-inclusive",
+      "title1":"Bathing, haircut, nail trimming, ear cleaning...........$80",
+      "title2":"Full Groom Package................$190"
+    },
+    {
+      "icon": "fa fa-paw",
+      "name": "Teeth Cleaning",
+      "type":"dental care",
+      "text": "Removes plaque and tartar for fresh breath and healthy teeth.",
+      "title1":"Basic.......................$25",
+      "title2":"Deep Cleaning................$100",
+      "title3":"Professional Dental Cleaning........$300"
+    },
+    {
+      "icon": "fa fa-paw",
+      "name": "Health Checkups",
+      "type":"health care",
+      "text": "Comprehensive exams to monitor your pet’s overall health and wellness.",
+      "title1":"Basic Health Checkup..............$50",
+      "title2":"Comprehensive Health Exam................$100",
+      "title3":"Senior Pet Health Exam........$150"
+    },
+    {
+      "icon": "fa fa-paw",
+      "name": "Pawdicure",
+      "type":"nail services",
+      "text": "Nail trimming, filing, and paw care for healthy, comfortable paws.",
+      "title1":"Paw pad moisturizing.......$15",
+      "title2":"pawdicure package...........$50"
+    },
+    {
+      "icon": "fa fa-paw",
+      "name": "Vaccinations",
+      "type":"vaccinations",
+      "text": "Vaccinations to protect your pet life",
+      "title1":"Core Vaccinations(Rabies, Distemper, Bordetella)..............upto $45",
+      "title2":"Non-core Vaccinations(Lyme Disease, Rattlesnake Vaccine)......upto $50"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/emily.png",
+      "name": "Dr. Emily Carter",
+      "job": "Veterinary Consultant🏥🐕"
+    },
+    {
+      "img": "img/team/sophia.png",
+      "name": "Sophia Bennett",
+      "job": "Pet Stylist🎨🐩"
+    },
+    {
+      "img": "img/team/jake.png",
+      "name": "Jake Thompson",
+      "job": "Head Groomer 🐶✂️"
+    },
+    {
+      "img": "img/team/olivia.png",
+      "name": "Olivia Martinez",
+      "job": "Front Desk & Scheduling Expert"
+    }
+  ],
+  "Contact": {
+    "address": "950 Main st, Worcester, MA 01610",
+    "phone": "+1 888-888-8888",
+    "email": "petlifecompanion@gmail.com",
+    "facebook": "https://www.facebook.com"
+  }
+}
