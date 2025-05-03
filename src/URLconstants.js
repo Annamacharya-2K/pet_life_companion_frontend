@@ -1,4 +1,4 @@
-export const DEFAULT_URL = 'http://localhost:4000';
+export const DEFAULT_URL = 'https://pet-life-companion-backend.onrender.com';
 export const SUBMIT_FORM = DEFAULT_URL+'/appoint/submitForm'
 export const GET_QUERIES = DEFAULT_URL+'/appoint/getAppointmentqueries'
 export const SIGNIN_URL = DEFAULT_URL+'/access/signin'
