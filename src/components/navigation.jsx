@@ -76,6 +76,11 @@ export const Navigation = ({ isAdmin,username }) => {
               </a>
             </li>
             </>}
+            <li>
+              <a className="page-scroll" onClick={()=> history("/admin")}>
+                Admin
+              </a>
+            </li>
           </ul>
         </div>:''}
       </div>
